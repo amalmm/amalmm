@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalmm" alt="amalmm" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [mmdev.in](mmdev.in)
+
 
 - 📫 How to reach me **amalramachandran8@gmail.com**
 
